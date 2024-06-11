@@ -1,4 +1,5 @@
-# prettymapp 🖼️
+# prettymapp 🖼️ but 2.0
+
 
 **Prettymapp is a webapp and Python package to create beautiful maps from OpenStreetMap data**
 
